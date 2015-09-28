@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">GeoQuiz</string>
+
+    <string name="next_button">Next</string>
+    <string name="prev_button">Previous</string>
+    <string name="true_button">True</string>
+    <string name="false_button">False</string>
+    <string name="action_settings">Settings</string>
+    <string name="correct_toast">Correct!</string>
+    <string name="incorrect_toast">Incorrect!</string>
+    <string name="bones_question">The Human body has as many bones as you can grow (upwards of 1000 if you\'re lucky).</string>
+    <string name="blood_question">The blood of a mammal always starts out green before it comes into contact with oxygen.</string>
+    <string name="brain_question">There is a part of the neurons in your brain called a synapse.</string>
+    <string name="stomach_question">Stomach acid is chemically composed of the same compounds in deodorant.</string>
+    <string name="eyes_question">When the fluid in the human eye does not drain properly, creating extra pressure, a condition known as Ocular Hypertension manifests.</string>
+</resources>
